@@ -1,6 +1,4 @@
 # SongSwipe
-SongSwipe
-
 SongSwipe is an innovative playlist management app that enables users to rate songs from their Spotify playlists, highlight the tracks they truly enjoy, and generate personalized playlists. The app adds social and competitive elements, encouraging sharing, rating, and group engagement.
 
 Target Audience
